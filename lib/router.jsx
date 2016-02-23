@@ -1,4 +1,4 @@
-const creaturesComponent = (subs) => {
+const creaturesComponent = () => {
   return (
     <MeteorData
         subscribe = { () => {

@@ -29,7 +29,7 @@ CreaturesPage = class CreaturesPage extends React.Component {
 
   render() {
       if (this.props.loading) {
-        return <div>People loading...</div>
+        return <div>Creatures loading...</div>
       }
       return (
         <div>
