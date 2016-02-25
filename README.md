@@ -1,1 +1,1 @@
-### Meteor, React, Redux, FlowRouter boilerplate
+### Meteor, React, FlowRouter SSR boilerplate

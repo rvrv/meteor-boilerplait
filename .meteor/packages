@@ -17,14 +17,13 @@ es5-shim                # ECMAScript 5 compatibility for older browsers.
 ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 react
-cosmos:browserify
-meteorhacks:npm
 
 
-npm-container
 check
 tmeasday:publish-counts
 kadira:react-layout
 kadira:flow-router-ssr
 reactive-dict
 reactive-var
+
+
